@@ -13,6 +13,10 @@ Gatsby powered CV website.
 
 ## 🚀 Quick start
 
+0.  **Before you start coding use the following command.**
+
+    Set-ExecutionPolicy -Scope Process Unrestricted
+
 1.  **Create a Gatsby site.**
 
     Use the Gatsby CLI to create a new site, specifying the minimal starter.
