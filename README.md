@@ -61,3 +61,7 @@ Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cl
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
 >>>>>>> f2f8637 (Initial commit from gatsby)
+
+Hello, Since finishing my amazing boot camp at The Code Institute, I decided to branch out and attempt to try out differnt software packages. This project would be a Gatsby version of my online resume and will give me an excuse to get into React.
+
+At this point I am starting with Balsamiq to gather the intial concepts on how I would like to put in the website.
